@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: chartreuse;
+    text-align: center;
+    width: 1000px;
+    margin-left: 250px;
+    border-radius: 5px;
+    height: 110px;
+}
+.navbar ul li{
+    float:left;
+    margin: 10px;
+
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    background-color: lightskyblue;
+    height: 30px;
+    border-radius: 5px;
+    margin:10px
+}
